@@ -1,4 +1,4 @@
-<img src="./cover.jpeg" />
+<img src="./cover.jpg" />
 
 ### Hi there 👋
 
