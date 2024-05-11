@@ -1,5 +1,5 @@
-<img src="./cover.jpg" />
+<img src="./profile/cover.jpg" />
 
 ### Hi there 👋
 
-Welcome to **Senior Blockchain Company**'s organization on GitHub where we love all kind of open source apps.
+Welcome to the **Senior Blockchain Company**'s organization on GitHub. We love all kinds of open source applications.
