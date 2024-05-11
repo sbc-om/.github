@@ -1,4 +1,4 @@
-<img src="./profile/cover.jpg" />
+<img src="/profile/cover.jpg" />
 
 ### Hi there 👋
 
